@@ -1,2 +1,2 @@
 # AWS Code Deploy Training
-Work in prgoress
+Work in prgress
