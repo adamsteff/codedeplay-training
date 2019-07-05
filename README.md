@@ -1,2 +1,2 @@
 # AWS Code Deploy Training
-Work in prgress
+Working progress
